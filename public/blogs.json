@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "coverImg": "https://i.ibb.co.com/LdrLDBJt/landscape-morning-fog-mountains-with-hot-air-balloons-sunrise.jpg",
+    "title": "The Future of Web Development",
+    "author": "John Smith",
+    "authorImg": "https://i.ibb.co.com/rRNfgBj7/f-F2now-Pq-Jw3xbb3xv-Fh-D-0-Xvn4-K.jpg",
+    "postedDate": "2026-10-15",
+    "readingTime": 5,
+    "hashTag": ["WebDevelopment", "React", "JavaScript"]
+  },
+  {
+    "id": 2,
+    "coverImg": "https://i.ibb.co.com/LdrLDBJt/landscape-morning-fog-mountains-with-hot-air-balloons-sunrise.jpg",
+    "title": "How to Build Better Projects with React",
+    "author": "Sarah Johnson",
+    "authorImg": "https://i.ibb.co.com/rRNfgBj7/f-F2now-Pq-Jw3xbb3xv-Fh-D-0-Xvn4-K.jpg",
+    "postedDate": "2026-10-16",
+    "readingTime": 8,
+    "hashTag": ["React", "Frontend", "Coding"]
+  },
+  {
+    "id": 3,
+    "coverImg": "https://i.ibb.co.com/LdrLDBJt/landscape-morning-fog-mountains-with-hot-air-balloons-sunrise.jpg",
+    "title": "A Beginner's Guide to Programming",
+    "author": "David Wilson",
+    "authorImg": "https://i.ibb.co.com/rRNfgBj7/f-F2now-Pq-Jw3xbb3xv-Fh-D-0-Xvn4-K.jpg",
+    "postedDate": "2026-10-17",
+    "readingTime": 6,
+    "hashTag": ["Programming", "Beginner", "Learning"]
+  },
+  {
+    "id": 4,
+    "coverImg": "https://i.ibb.co.com/LdrLDBJt/landscape-morning-fog-mountains-with-hot-air-balloons-sunrise.jpg",
+    "title": "Mastering Productivity as a Developer",
+    "author": "Emily Davis",
+    "authorImg": "https://i.ibb.co.com/rRNfgBj7/f-F2now-Pq-Jw3xbb3xv-Fh-D-0-Xvn4-K.jpg",
+    "postedDate": "2026-10-18",
+    "readingTime": 4,
+    "hashTag": ["Productivity", "Developer", "Tips"]
+  },
+  {
+    "id": 5,
+    "coverImg": "https://i.ibb.co.com/LdrLDBJt/landscape-morning-fog-mountains-with-hot-air-balloons-sunrise.jpg",
+    "title": "Why Every Developer Should Learn Tailwind CSS",
+    "author": "Michael Brown",
+    "authorImg": "https://i.ibb.co.com/rRNfgBj7/f-F2now-Pq-Jw3xbb3xv-Fh-D-0-Xvn4-K.jpg",
+    "postedDate": "2026-10-19",
+    "readingTime": 7,
+    "hashTag": ["TailwindCSS", "CSS", "WebDesign"]
+  }
+]
